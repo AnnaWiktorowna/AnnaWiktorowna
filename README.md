@@ -8,7 +8,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna_Nenasheva-blue?style=flat&logo=Linkedin&logoColor=white)](https//linkedin.com/in/anna-nenasheva-3b6aa829b)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna_Nenasheva-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-nenasheva-3b6aa829b)
 ---
 
 ### :hammer_and_wrench: Languages and Tools: :fire: Data Analisis
