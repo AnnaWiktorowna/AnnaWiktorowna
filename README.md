@@ -11,7 +11,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anna_Nenasheva-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-nenasheva-3b6aa829b)
 ---
 
-### :hammer_and_wrench: Languages and Tools : Data Analisis
+### :hammer_and_wrench: Languages and Tools: :fire: Data Analisis
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
